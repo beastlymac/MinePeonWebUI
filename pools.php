@@ -90,5 +90,5 @@ include('menu.php');
 	  a dontation to the MinePeon project.</p>
 
     </div><!-- /container -->
-		<?php if($donation == 0) { echo $plea; } ?>
+		<?php if($donation == 0) { echo $please; } ?>
 <?php include('foot.php'); ?>
